@@ -1,0 +1,79 @@
+body{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    color: rgb(0, 0, 0);
+    background-color: rgb(10, 5, 5);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+#navbar {
+    background-color: rgb(137, 132, 209);
+    margin: 0;
+    text-align: center;
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+
+
+}
+
+
+#icon {
+    width: 150px;
+    padding: 10px;
+}
+
+
+#rodape {
+    color: rgb(0, 0, 0);
+    background-color:rgb(137, 132, 209);
+    padding: 10px;
+    text-align: center;
+
+
+}
+
+
+.noticia{
+    background-color: blueviolet;
+    border-style: solid;
+    border-color:rgb(137, 132, 209);
+    text-align: center;
+
+
+}
+
+
+h4{color: rgb(137, 132, 209);
+padding: 10px;
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 2em;
+}
+
+
+.noticia > img{
+    width: 600px;
+   
+}
+
+
+.imagem{
+    height: 100px;
+    width: 50px;
+}
+
+
